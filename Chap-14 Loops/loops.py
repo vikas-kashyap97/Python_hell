@@ -105,7 +105,7 @@ while count > 0:
 count = 5 
 while count > 0:
     if count == 3:
-        # continue 
+       pass # continue 
     else:
         print(count)
     count -= 1 
