@@ -109,7 +109,7 @@ student2 = Student('Vishakha', 12, 97)
 student2.student_details()
 
 
-# Encapsulation 
+# Encapsulation (__)
 # Restrict access to certain attributes or methods to protect data and enforce controlled access
 
 class Student: # student class
